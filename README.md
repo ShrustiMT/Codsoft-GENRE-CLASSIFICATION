@@ -10,6 +10,7 @@ Accuracy : 0.6947416974169742
 Running Time :  0.36 Secounds
 
                  precision    recall  f1-score   support
+
                  
  documentary        0.73      0.69      0.71     13096
  
