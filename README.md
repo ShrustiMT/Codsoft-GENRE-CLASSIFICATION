@@ -4,7 +4,7 @@ To gain insight into the data, a visual representation of text length distributi
 The Multinomial Naive Bayes model is programmed with preprocessing training data and the predictions are based on testing data. Finally, the accuracy of the model shall be assessed and its running time measured in order to evaluate how efficient the classification procedure is.
 Accuracy : 0.6947416974169742
 Running Time :  0.36 Secounds
-                 precision    recall  f1-score   support
+#                 precision    recall  f1-score   support
 
  documentary        0.73      0.69      0.71     13096
        drama        0.69      0.43      0.53     13612
