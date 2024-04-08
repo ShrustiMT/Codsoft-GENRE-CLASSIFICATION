@@ -11,8 +11,7 @@ Running Time :  0.36 Secounds
 
                  precision    recall  f1-score   support
 
-                 
- documentary        0.73      0.69      0.71     13096
+     documentary     0.73      0.69      0.71     13096
  
        drama        0.69      0.43      0.53     13612
        
